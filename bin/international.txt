@@ -1,0 +1,21 @@
+City	Total International Visitors
+Bangkok	22.78 Million Visitors
+Paris	19.10 Million Visitors
+London	19.09 Million Visitors
+Dubai	15.93 Million Visitors
+Singapore	14.67 Million Visitors
+Kuala Lumpur	13.79 Million Visitors
+New York	13.60 Million Visitors
+Istanbul	13.40 Million Visitors
+Tokyo	12.93 Million Visitors
+Antalya	12.41 Million Visitors
+Seoul	11.25 Million Visitors
+Osaka	10.14 Million Visitors
+Makkah	10 Million Visitors
+Phuket	9.89 Million Visitors
+Pattaya	9.44 Million Visitors
+Milan	9.10 Million Visitors
+Barcelona	9.09 Million Visitors
+Palma de Mallorca	8.96 Million Visitors
+Bali	8.26 Million Visitors
+Hong Kong SAR	8.23 Million Visitors
